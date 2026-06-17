@@ -1,0 +1,18 @@
+site_name: My Docs
+
+theme:
+  name: readthedocs
+  color_mode: auto
+  locale: en
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+
+  analytics:
+    gtag: G-ABC12
+    anonymize_ip: true
+
+  collapse_navigation: true
+  prev_next_buttons_location: bottom
+  titles_only: true
