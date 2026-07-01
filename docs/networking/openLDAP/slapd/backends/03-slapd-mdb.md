@@ -1,4 +1,4 @@
-# slapd-mdb Command Documentation
+# slapd-mdb Documentation
 
 ## Name and Synopsis
 

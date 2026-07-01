@@ -1,4 +1,4 @@
-# slapd-config Command Documentation
+# slapd-config Documentation
 
 The `slapd-config` serves as the configuration backend for the `slapd` daemon. It manages all configuration information used by the `slapd` server and various associated tools, including `slapacl`, `slapadd`, `slapauth`, `slapcat`, `slapdn`, `slapindex`, `slapmodify`, and `slaptest`.
 
